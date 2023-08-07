@@ -1,5 +1,5 @@
 ---
-name: zls
+name: zls-neo
 description: Zig LSP implementation + Zig Language Server. Custom build.
 homepage: https://github.com/zigtools/zls
 licenses:
