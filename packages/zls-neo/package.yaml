@@ -21,7 +21,7 @@ schemas:
   lsp: vscode:https://raw.githubusercontent.com/zigtools/zls-vscode/master/package.json
 
 bin:
-  zls: "bin/zls"
+  zls: "zig-out/bin/zls"
 
 # zstd is unavailable on runners.
 ci_skip:
