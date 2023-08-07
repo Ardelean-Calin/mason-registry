@@ -1,6 +1,6 @@
 ---
 name: zls
-description: Zig LSP implementation + Zig Language Server.
+description: Zig LSP implementation + Zig Language Server. Custom build.
 homepage: https://github.com/zigtools/zls
 licenses:
   - MIT
